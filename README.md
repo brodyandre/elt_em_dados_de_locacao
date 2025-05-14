@@ -65,11 +65,12 @@ pip install notebook
 ```
 ### 5. Após rodar as células, o gráfico da variação do valor do aluguel ao longo do tempo será gerado.
 
-Base de Dados 📂
+## Base de Dados 📂
 
 O conjunto de dados utilizado neste projeto pode ser baixado através do seguinte link:
 
-dados_locacao_imoveis.json
+- [**dados_locacao_imoveis.json**](https://cdn3.gnarususercontent.com.br/2928-transformacao-manipulacao-dados/dados_locacao_imoveis.json)
+
 
 Estrutura de Arquivos 📁
 
