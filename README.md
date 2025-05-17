@@ -1,4 +1,4 @@
-# Realizando ELT em dados de Locação
+# Realizando ETL em dados de Locação
 
 # Análise de Dados de Locação de Imóveis 📊🏠
 
